@@ -28,9 +28,9 @@
                                (= column 0) [0 -3 0]
                                (= column 1) [0 0 0]
                                (= column 2) [0 10 0]
-                               (= column 3) [0 -3 0]
-                               (= column 4) [0 -3 0]
-                               (= column 5) [0 -3 0]           ; original [0 -5.8 5.64]
+                               (= column 3) [0 3 0]
+                               (= column 4) [0 3 0]
+                               (= column 5) [0 3 0]           ; original [0 -5.8 5.64]
                                :else [0 0 0]))
 
 (def thumb-offsets [6 0 7])
